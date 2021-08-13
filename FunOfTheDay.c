@@ -2,7 +2,7 @@
 #include<stdio.h>
 int dayofweek(int,int ,int);
 int main(){
-	char day[7][10]={ "Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"};;
+	char day[7][10]={ "Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"};
 	
 
 	int d,m,y;

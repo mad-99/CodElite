@@ -31,5 +31,6 @@ public class Bob{
         }else{
         System.out.println("False");
         }
+        sc.close();
     }
 }
