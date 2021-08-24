@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Bob{
     public static boolean isValidIFSC(String s){
-        if(s.length() != 11){
+        if(s.length()!=11){
             return false;
         }
         for(int i=0;i<4;i++){
